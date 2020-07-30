@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\rafae\Desktop\Algorithm\9th Day\array\prjCppArray\prjCppArray\main.cpp(4,13): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+  prjCppArray.vcxproj -> C:\Users\rafae\Desktop\Algorithm\9th Day\array\prjCppArray\Debug\prjCppArray.exe
